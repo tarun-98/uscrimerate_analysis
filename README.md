@@ -1,12 +1,4 @@
-COMP257/ITEC657 Group Project
-===
-
-Group: ITEC\_Pract\_05(Fri 7pm)\_Group F
-
-Group Members: 
-Wasiu Oyeniyi Alimi (45540845), Bala Sai Tarun Goli (45786690), Jyoti Kumari (45771561), Aniket Pramanik (45714347)
-
-Project Title: Prediction of the Violent Crime per Population of a Community in the U.S.
+Title: Prediction of the Violent Crime per Population of a Community in the U.S.
 
 **Datasets Summary**
 
